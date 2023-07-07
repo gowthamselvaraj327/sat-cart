@@ -23,7 +23,7 @@ const Header = () => {
                     <div className="navbar-brand">
                         <Link to="/">
                             {/* <img width="150px" src="./images/logo.png" alt="Logo"/> */}
-                            <h3>E-Cart</h3>
+                            <h3>SAT-Cart</h3>
                         </Link>
                     </div>
                 </div>
